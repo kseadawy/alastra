@@ -1,0 +1,38 @@
+# Alastra — static site (.html / .css / images)
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp / backup / logs
+*.bak
+*.tmp
+*.temp
+*.log
+*.orig
+*.rej
+
+# Local helper scripts (not part of the site)
+*.ps1
+
+# OpenCode local config — not part of the website
+.opencode/
+
+# Node / Python / build (future-proof, currently unused)
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
