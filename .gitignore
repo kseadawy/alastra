@@ -25,7 +25,8 @@ $RECYCLE.BIN/
 
 # OpenCode local config — not part of the website
 .opencode/
-
+AGENTS.md
+opencode.json
 # Node / Python / build (future-proof, currently unused)
 node_modules/
 dist/
